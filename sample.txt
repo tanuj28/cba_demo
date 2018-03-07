@@ -1,0 +1,16 @@
+Examples for Intent Recognizer:
+
+1.) From: Cindi, Smiths Sent: Monday, 6 December 2015 9:50 AM To: Bethann, Carol <CarolB@gmail.com> Subject: RE: All Pumps Sales & Service - CDL666055066799 Carol, 
+I don t have the access to order trust investigation. Please arrange to order the trust investigation from your end, otherwise you could try to contact Document 
+Preparation Team to see whether they would be able to assist. Thanks and Kind Regards, __________________________________________________ Example Orgainisation Smiths Cindi TLS Customer Service Specialist Commercial Loan Fulfilment Team Lending Services, Team Operations, Customer Services Level 9, 606 Kim Street MELBOURNE P: + 61 2 9656 9594 Direct Extension: 579594 F: 1300 766 770 E: Smiths.Cindi@gmail.com
+
+
+2.) Hi Anthony, I have returned this CDL to you as we have received the valuation back. I have updated comments for approval.
+
+Examples for Entity Recognizer:
+
+1.)Hi Ben, pls see my comments in CDL FYI. Can you please email documents to RM- Molly Weber when completed Thank you Cheers 
+Johnson.
+
+2.)Hi Ben, 1. If Third Party Account insert: Third party nominated account TBA will be used as the nominated account. Please 
+issue DNGGGDR. 2. Please issue documents via internal mail to BSB 2965006, 34 Glenpark Road WOOLGOOLGA NSW 2456 Thanks Robert
